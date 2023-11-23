@@ -1,0 +1,3 @@
+jdbc:postgresql://myauroracluster.cluster-c9bfei4hjlrd.us-east-1-beta.rds.amazonaws.com:5432
+
+mongodb://admin:admin@localhost:32133
